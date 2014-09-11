@@ -1,4 +1,4 @@
 go-tunnel
 =========
 
-Transfer files, big data etc, written by golang. 
+Transfer files and big data etc, written by golang. 
